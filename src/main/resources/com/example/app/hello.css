@@ -1,0 +1,17 @@
+/* Root Pane Background */
+.root {
+    -fx-background-color: black;
+}
+
+/* Default Label Style */
+.label {
+    -fx-text-fill: white;
+    -fx-font-size: 18px;
+}
+
+/* Title-specific Style */
+#title {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: yellow;
+}
